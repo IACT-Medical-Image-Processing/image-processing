@@ -15,5 +15,5 @@ gi,j =floor((L−1)􏰂pn), (1)
 
 ## 2. Bi-Histogram Equalization
 
-In bi-histogram equalization the histogram of the original image is separated into two sub histograms based on the mean of the histogram of the original image, the sub-histograms are equalized independently using refined histogram equalization, which produces flatter histogram.
+In Bi-histogram equalization the histogram of the original image is separated into two sub histograms based on the mean of the histogram of the original image, the sub-histograms are equalized independently using refined histogram equalization, which produces flatter histogram.
 
